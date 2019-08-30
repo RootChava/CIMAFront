@@ -1,0 +1,13 @@
+@media only screen and (min-width: 300px){
+    .vert-margin-soft {
+        margin: 20px 0;
+    }
+
+    img.max-300 {
+        max-width: 300px;
+    }
+
+    .bot-margin-soft {
+        margin-bottom: 20px;
+    }
+}
